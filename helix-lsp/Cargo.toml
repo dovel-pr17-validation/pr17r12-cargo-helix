@@ -18,7 +18,7 @@ helix-core = { path = "../helix-core" }
 helix-loader = { path = "../helix-loader" }
 helix-lsp-types = { path = "../helix-lsp-types" }
 
-anyhow = "1.0"
+anyhow = "1.0.104"
 futures-executor.workspace = true
 futures-util.workspace = true
 globset.workspace = true
