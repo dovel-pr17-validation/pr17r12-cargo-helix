@@ -56,8 +56,8 @@ termina = "0.3"
 sonic-rs = "0.5"
 globset = "0.4"
 etcetera = "0.11"
-arc-swap = "1.9"
-arrayvec = "0.7"
+arc-swap = "1.9.3"
+arrayvec = "0.7.8"
 
 # dev dependencies
 criterion = { version = "0.8", default-features = false, features = ["cargo_bench_support"] }
